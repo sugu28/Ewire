@@ -1,0 +1,2 @@
+[20-May-2022 05:47:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sbsrkannam/public_html/DMT_Dashboard/SBSR_Dashboard/pages/BBPSBILLERS/Airtel.php on line 500
+[09-Jun-2022 12:40:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sbsrkannam/public_html/DMT_Dashboard/SBSR_Dashboard/pages/BBPSBILLERS/Airtel.php on line 500
