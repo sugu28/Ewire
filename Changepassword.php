@@ -350,5 +350,9 @@ include "database.php";
     <script src="assets/js/misc.js"></script>
     <!-- endinject -->
 </body>
+<<<<<<< HEAD
 ..........................
+=======
+
+>>>>>>> 48a64901e5fbddfa26244871f31a99082e126603
 </html>
