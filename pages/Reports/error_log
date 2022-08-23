@@ -1,0 +1,4 @@
+[10-Jun-2022 04:28:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sbsrkannam/public_html/DMT_Dashboard/SBSR_Dashboard/pages/Reports/Direct.php on line 505
+[13-Jun-2022 09:51:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sbsrkannam/public_html/DMT_Dashboard/SBSR_Dashboard/pages/Reports/Direct.php on line 505
+[13-Jun-2022 11:15:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sbsrkannam/public_html/DMT_Dashboard/SBSR_Dashboard/pages/Reports/CommissionDetails.php on line 514
+[14-Jun-2022 04:58:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sbsrkannam/public_html/DMT_Dashboard/SBSR_Dashboard/pages/Reports/Direct.php on line 505
